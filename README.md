@@ -9,12 +9,12 @@ The second project was built with java .It is a Text to Speech programm where wh
 **3)**
 The directory FpsMaze contains a programm which exactly it is a first person game which was built with C# language.It has a maze where the player must reach the top level (the maze has 4 layers) at the right time.In this quest he has a hammer where he can hit any cube he wants in order to find a better opening in the maze. Inside the maze there are black cubes at each level where the player can enter and teleport to the exact upper  level, is an advantage which helps him in his struggle with time.Every hammer he has has a life and the player can understand during the game that will the hammer will disappear from his hand as this change its color by lerping from red to black.
 
-**4** Takes as input a graph and returns an answer as to whether the graph is 2-Chromatic.
+**4)** Takes as input a graph and returns an answer as to whether the graph is 2-Chromatic.
 
-**5** Takes as input a degree sequence and returns if this sequence of degrees is grafical.Ιf the sequence is graphical then it displays a possible implementation of the graph with the form of adjacency matrix.This programm is based on Havel–Hakimi Theorem and was made with C language.You will find this programm in GenerateGraph directory.
+**5)** Takes as input a degree sequence and returns if this sequence of degrees is grafical.Ιf the sequence is graphical then it displays a possible implementation of the graph with the form of adjacency matrix.This programm is based on Havel–Hakimi Theorem and was made with C language.You will find this programm in GenerateGraph directory.
 
-**6**
-Implementation of a simple multi-threaded server key-value pair storage.This project was made with C language.
+**6)**
+Implementation of a simple multi-threaded server key-value pair storage.This project was made with C language.You can find this project in 
 
-**7**
+**7)**
 Implementing a fair scheduling in MINIX 3.2.0.In this folder is posted only the files (headers and c files) where i made changes and and where I extended the code.This project was made with C language  and concerns the unix system
