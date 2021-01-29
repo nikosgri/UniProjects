@@ -1,0 +1,11 @@
+program check{
+	declare a,b,c;
+	{
+		c:=a*4-10/(b+a);
+		print(2*(c+7))
+
+	}
+
+
+
+}
