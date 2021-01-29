@@ -17,4 +17,4 @@ The directory FpsMaze contains a programm which exactly it is a first person gam
 Implementation of a simple multi-threaded server key-value pair storage.This project was made with C language.You can find this project in MultiThreadServer directory.
 
 **7)**
-Implementing a fair scheduling in MINIX 3.2.0.In this folder is posted only the files (headers and c files) where i made changes and and where I extended the code.This project was made with C language  and concerns the unix system.You can find this project in Unix directory which also contains a readme pdf file where I specify every change and extension code I make.
+Implementing a fair scheduling in MINIX 3.2.0.In this folder is posted only the files (headers and c files) where i made changes and and where I extended the code.This project was made with C language  and concerns the unix system.You can find this project in Unix directory which also contains a readme pdf file (written in Greek) where I specify every change and extension code I make.
